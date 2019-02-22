@@ -1,0 +1,66 @@
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Purchasing System ICT III-1.exe.config
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Purchasing System ICT III-1.exe
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Purchasing System ICT III-1.pdb
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Purchasing System ICT III-1.xml
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.vbprojResolveAssemblyReference.cache
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.AdInbox.resources
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.AdminForm.resources
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.LoginForm.resources
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.UserForm.resources
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.UserRequest.resources
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.WForm.resources
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.Resources.resources
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.vbproj.GenerateResource.Cache
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.exe
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.xml
+C:\Users\JCMusic16\documents\visual studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.pdb
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.NewMessageAd.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.InventoryForm.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.UsInbox.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.MainInventory.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.CreateNewUser.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.ViewUsers.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.Test001.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.UserFeedback.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.ViewFeedback.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.AdminReports.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.DelPenItems.resources
+C:\Users\JCMusic16\Documents\Visual Studio 2015\Projects\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.RequestsFromDepartments.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Purchasing System ICT III-1.exe.config
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.exe
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.xml
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.pdb
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Purchasing System ICT III-1.exe
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Purchasing System ICT III-1.pdb
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Purchasing System ICT III-1.xml
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.vbprojResolveAssemblyReference.cache
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.AdInbox.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.AdminForm.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.AdminReports.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.CreateNewUser.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.DelPenItems.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.InventoryForm.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.LoginForm.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.MainInventory.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.NewMessageAd.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.RequestsFromDepartments.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.Test001.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.UserFeedback.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.UserForm.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.UserRequest.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.UsInbox.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.ViewFeedback.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.ViewUsers.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.WForm.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing_System_ICT_III_1.Resources.resources
+C:\Users\KCC\Desktop\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.vbproj.GenerateResource.Cache
+C:\Users\KCC\Desktop\OJT Doc\Purchasing System ICT III-1\Purchasing System ICT III-1\bin\Debug\Purchasing System ICT III-1.exe.config
+C:\Users\KCC\Desktop\OJT Doc\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.exe
+C:\Users\KCC\Desktop\OJT Doc\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.xml
+C:\Users\KCC\Desktop\OJT Doc\Purchasing System ICT III-1\Purchasing System ICT III-1\obj\Debug\Purchasing System ICT III-1.pdb

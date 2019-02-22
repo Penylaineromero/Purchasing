@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E5016813-9867-40D1-A544-3438812C0AF5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Purchasing_System_ICT_III_1.My.MyApplication</StartupObject>
+    <RootNamespace>Purchasing_System_ICT_III_1</RootNamespace>
+    <AssemblyName>Purchasing System ICT III-1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Purchasing System ICT III-1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Purchasing System ICT III-1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdInbox.Designer.vb">
+      <DependentUpon>AdInbox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdInbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.vb">
+      <DependentUpon>AdminForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminReports.Designer.vb">
+      <DependentUpon>AdminReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateNewUser.Designer.vb">
+      <DependentUpon>CreateNewUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CreateNewUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DelPenItems.Designer.vb">
+      <DependentUpon>DelPenItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DelPenItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryForm.Designer.vb">
+      <DependentUpon>InventoryForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainInventory.Designer.vb">
+      <DependentUpon>MainInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewMessageAd.Designer.vb">
+      <DependentUpon>NewMessageAd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NewMessageAd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchasingData.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PurchasingData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PurchasingData.vb">
+      <DependentUpon>PurchasingData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PurchasingSystem.designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PurchasingSystem.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="RequestsFromDepartments.Designer.vb">
+      <DependentUpon>RequestsFromDepartments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RequestsFromDepartments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test001.Designer.vb">
+      <DependentUpon>Test001.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Test001.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserFeedback.Designer.vb">
+      <DependentUpon>UserFeedback.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserFeedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserForm.Designer.vb">
+      <DependentUpon>UserForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserRequest.Designer.vb">
+      <DependentUpon>UserRequest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsInbox.Designer.vb">
+      <DependentUpon>UsInbox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsInbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewFeedback.Designer.vb">
+      <DependentUpon>ViewFeedback.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewFeedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewUsers.Designer.vb">
+      <DependentUpon>ViewUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomeForm.Designer.vb">
+      <DependentUpon>WelcomeForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdInbox.resx">
+      <DependentUpon>AdInbox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminReports.resx">
+      <DependentUpon>AdminReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateNewUser.resx">
+      <DependentUpon>CreateNewUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DelPenItems.resx">
+      <DependentUpon>DelPenItems.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryForm.resx">
+      <DependentUpon>InventoryForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <None Include="PurchasingData.xsc">
+      <DependentUpon>PurchasingData.xsd</DependentUpon>
+    </None>
+    <None Include="PurchasingData.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PurchasingData.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="PurchasingData.xss">
+      <DependentUpon>PurchasingData.xsd</DependentUpon>
+    </None>
+    <None Include="PurchasingSystem.dbml.layout">
+      <DependentUpon>PurchasingSystem.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="MainInventory.resx">
+      <DependentUpon>MainInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewMessageAd.resx">
+      <DependentUpon>NewMessageAd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RequestsFromDepartments.resx">
+      <DependentUpon>RequestsFromDepartments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test001.resx">
+      <DependentUpon>Test001.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserFeedback.resx">
+      <DependentUpon>UserFeedback.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserForm.resx">
+      <DependentUpon>UserForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserRequest.resx">
+      <DependentUpon>UserRequest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsInbox.resx">
+      <DependentUpon>UsInbox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewFeedback.resx">
+      <DependentUpon>ViewFeedback.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewUsers.resx">
+      <DependentUpon>ViewUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomeForm.resx">
+      <DependentUpon>WelcomeForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PurchasingSystem.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>PurchasingSystem.designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\BLUECOLOR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BACK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminuser.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

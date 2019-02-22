@@ -1,0 +1,166 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Purchasing System ICT III-1
+</name>
+</assembly>
+<members>
+<member name="T:Purchasing_System_ICT_III_1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Purchasing_System_ICT_III_1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Purchasing_System_ICT_III_1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Purchasing_System_ICT_III_1.My.Resources.Resources.adminuser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Purchasing_System_ICT_III_1.My.Resources.Resources.BACK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Purchasing_System_ICT_III_1.My.Resources.Resources.BLUECOLOR">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_admin_inboxDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_usersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_user_inboxDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_inventoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_admin_inboxRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_usersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_user_inboxRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_inventoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_admin_inboxRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_usersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_user_inboxRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingData.pur_tbl_inventoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.pur_tbl_admin_inboxTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.pur_tbl_usersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.pur_tbl_user_inboxTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.pur_tbl_inventoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.TableAdapterManager.UpdateUpdatedRows(Purchasing_System_ICT_III_1.PurchasingData,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.TableAdapterManager.UpdateInsertedRows(Purchasing_System_ICT_III_1.PurchasingData,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.TableAdapterManager.UpdateDeletedRows(Purchasing_System_ICT_III_1.PurchasingData,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.TableAdapterManager.UpdateAll(Purchasing_System_ICT_III_1.PurchasingData)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Purchasing_System_ICT_III_1.PurchasingDataTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

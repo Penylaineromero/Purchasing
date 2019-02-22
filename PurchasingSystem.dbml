@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_ict_31" Class="PurchasingSystemDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=JEREMIAH2911;Initial Catalog=db_ict_31;User ID=sa" SettingsObjectName="Purchasing_System_ICT_III_1.My.MySettings" SettingsPropertyName="db_ict_31ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.pur_tbl_users" Member="pur_tbl_users">
+    <Type Name="pur_tbl_user">
+      <Column Name="new_user_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="new_user_name" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="new_user_pass" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="new_confi_pass" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="new_user_dept" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="user_type" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.pur_tbl_inventory" Member="pur_tbl_inventories">
+    <Type Name="pur_tbl_inventory">
+      <Column Name="order_id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="item_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="item_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="item_qty" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="item_price" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="item_total_price" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.pur_tbl_user_inbox" Member="pur_tbl_user_inboxes">
+    <Type Name="pur_tbl_user_inbox">
+      <Column Name="admin_id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="admin_msg" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="admin_msg_status" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="admin_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.pur_tbl_admin_inbox" Member="pur_tbl_admin_inboxes">
+    <Type Name="pur_tbl_admin_inbox">
+      <Column Name="user_id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="user_name" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="user_dept" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="user_item_request" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="user_item_qty" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="user_req_status" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="user_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.pur_tbl_feedback" Member="pur_tbl_feedbacks">
+    <Type Name="pur_tbl_feedback">
+      <Column Name="user_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="user_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="user_dept" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="feed_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="user_feedback" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="feed_status" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
